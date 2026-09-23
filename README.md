@@ -3,7 +3,7 @@
 Researcher in world models, perception, and autonomous driving.  
 Senior ML Engineer at [Parallel Domain](https://github.com/parallel-domain); previously Research Group Lead at [KIT-MRT](https://github.com/KIT-MRT).
 
-Most of my development happened on KIT-MRT's internal GitLab, so this profile shows little activity. 😞  
+Most of my development happened on KIT-MRT's internal GitLab, so this profile shows little activity.  
 My public work lives in institute and co-author repositories:
 
 **Datasets**
